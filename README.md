@@ -1,44 +1,31 @@
-<h2 align="left">Hi 👋! My name is Jayvardhansinh Zala</h2>
+# <p align="center">Hello👋, I'm Jayvardhansinh Zala</p> 
+Welcome to my GitHub profile! 
+<img  align="right alt="coding" width="400" src="https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966"
 
-###
+## 🛠 Skills
+Here are some of the technologies and languages I'm proficient in:
+- *Frontend Development:*<br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap,svg"/>
+- *Database:*<br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,microsoft-sql-server"/>
+- *Programming Languages:*<br/><br/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  
+## Collaboration and Feedback
+I'm open to collaboration and always eager to learn from others. If you have suggestions for improvement, feel free to reach out!
+My mail : jayvardhansinhpzala@gmail.com
+## 📫 Connect with Me
+<a href="https://www.linkedin.com/in/Jayvardhansinh-Zala" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://www.linkedin.com/in/Jayvardhansinh-Zala" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
+<a href="https://www.instagram.com/j.p.rana_9" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeel1412&show_icons=true&locale=en&layout=compact" alt="jeel1412" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeel1412&show_icons=true&locale=en" alt="jeel1412" /></p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeel1412&" alt="jeel1412" /></p>
