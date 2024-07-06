@@ -1,13 +1,12 @@
 # <p align="center">Hello👋, I'm Jayvardhansinh Zala</p> 
 Welcome to my GitHub profile! 
-<img  align="right alt="coding" width="400" src="https://camo.githubusercontent.com/fb15905b37a618004c87a9e66eb97b870f07d63b110a2c3009d7bed69f6c2fc3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966"
 
 ## 🛠 Skills
 Here are some of the technologies and languages I'm proficient in:
 - *Frontend Development:*<br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap,svg"/>
+  <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap"/>
 - *Database:*<br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,microsoft-sql-server"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 - *Programming Languages:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=python"/>
   
