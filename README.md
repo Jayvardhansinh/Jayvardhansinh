@@ -23,8 +23,8 @@ My mail : jayvardhansinhpzala@gmail.com
 </a>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeel1412&show_icons=true&locale=en&layout=compact" alt="jeel1412" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayvardhansinh&show_icons=true&locale=en&layout=compact" alt="Jayvardhansinh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeel1412&show_icons=true&locale=en" alt="jeel1412" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayvardhansinh &show_icons=true&locale=en" alt="jayvardhansinh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeel1412&" alt="jeel1412" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayvardhansinh&" alt="Jayvardhansinh" /></p>
