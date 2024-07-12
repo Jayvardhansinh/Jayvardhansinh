@@ -5,6 +5,8 @@ Welcome to my GitHub profile!
 Here are some of the technologies and languages I'm proficient in:
 - *Frontend Development:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap"/>
+  - *Backend Development:*<br/><br/>
+  <img src="https://skillicons.dev/icons?i=node"/>
 - *Database:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 - *Programming Languages:*<br/><br/>
@@ -24,7 +26,5 @@ My mail : jayvardhansinhpzala@gmail.com
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayvardhansinh&show_icons=true&locale=en&layout=compact" alt="Jayvardhansinh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayvardhansinh &show_icons=true&locale=en" alt="jayvardhansinh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayvardhansinh&" alt="Jayvardhansinh" /></p>
