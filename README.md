@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 Here are some of the technologies and languages I'm proficient in:
 - *Frontend Development:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap"/>
-  - *Backend Development:*<br/><br/>
+- *Backend Development:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 - *Database:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
