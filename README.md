@@ -26,7 +26,3 @@ My mail : jayvardhansinhpzala@gmail.com
     <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayvardhansinh&show_icons=true&locale=en&layout=compact" alt="Jayvardhansinh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayvardhansinh&" alt="Jayvardhansinh" /></p>
