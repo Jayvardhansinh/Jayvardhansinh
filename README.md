@@ -10,7 +10,7 @@ Here are some of the technologies and languages I'm proficient in:
 - *Database:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 - *Programming Languages:*<br/><br/>
-  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=python,java"/>
 - *Testing Environment :*<br/><br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> 
   
